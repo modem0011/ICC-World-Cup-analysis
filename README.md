@@ -1,3 +1,3 @@
 # ICC-World-Cup-analysis
 
-Analysis of world cup
+Analysis of world cup data
